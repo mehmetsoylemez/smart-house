@@ -1,0 +1,546 @@
+{
+  "houses": [
+    {
+      "name": "Hill Park Apartment",
+      "lat": 39.9272882330529,
+      "lng": 32.83668457606018,
+      "address": "Mebusevleri Mh., Anıtkabir No:108, 06570 Çankaya/Ankara, Turkey",
+      "country": "Turkey",
+      "city": "Ankara",
+      "humidity": 36,
+      "outsideTemp": 24,
+      "avgHouseTemp": 28,
+      "id": 1
+    },
+    {
+      "name": "Royal Tower Residence",
+      "lat": 41.174081010919366,
+      "lng": 28.792082754981493,
+      "address": "Boğazköy İstiklal Mahallesi, Devlet Cd., 34285 Arnavutköy/İstanbul, Turkey",
+      "country": "Turkey",
+      "city": "İstanbul",
+      "humidity": 60,
+      "outsideTemp": 27,
+      "avgHouseTemp": 23,
+      "id": 2
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Bedroom 1",
+      "humidity": 36,
+      "roomTemp": 28,
+      "houseId": "1",
+      "id": 1
+    },
+    {
+      "name": "Bedroom 2",
+      "humidity": 35,
+      "roomTemp": 22,
+      "houseId": "1",
+      "id": 2
+    },
+    {
+      "name": "Bathroom 1",
+      "humidity": 68,
+      "roomTemp": 27,
+      "houseId": "1",
+      "id": 3
+    },
+    {
+      "name": "Bathroom 2",
+      "humidity": 65,
+      "roomTemp": 25,
+      "houseId": "1",
+      "id": 4
+    },
+    {
+      "name": "Kitchen",
+      "humidity": 56,
+      "roomTemp": 24,
+      "houseId": "1",
+      "id": 5
+    },
+    {
+      "name": "Living Room",
+      "humidity": 45,
+      "roomTemp": 22,
+      "houseId": "1",
+      "id": 6
+    },
+    {
+      "name": "Dining Room",
+      "humidity": 43,
+      "roomTemp": 26,
+      "houseId": "1",
+      "id": 7
+    },
+    {
+      "name": "Utility Room",
+      "humidity": 56,
+      "roomTemp": 23,
+      "houseId": "1",
+      "id": 8
+    },
+    {
+      "name": "Child Room",
+      "humidity": 36,
+      "roomTemp": 23,
+      "houseId": "1",
+      "id": 9
+    },
+    {
+      "name": "Hall",
+      "humidity": 36,
+      "roomTemp": 24,
+      "houseId": "1",
+      "id": 10
+    },
+    {
+      "name": "Bedroom 1",
+      "humidity": 36,
+      "roomTemp": 21,
+      "houseId": "2",
+      "id": 11
+    },
+    {
+      "name": "Bedroom 2",
+      "humidity": 32,
+      "roomTemp": 22,
+      "houseId": "2",
+      "id": 12
+    },
+    {
+      "name": "Bathroom 1",
+      "humidity": 65,
+      "roomTemp": 27,
+      "houseId": "2",
+      "id": 12
+    },
+    {
+      "name": "Bathroom 2",
+      "humidity": 70,
+      "roomTemp": 28,
+      "houseId": "2",
+      "id": 14
+    },
+    {
+      "name": "Kitchen",
+      "humidity": 50,
+      "roomTemp": 28,
+      "houseId": "2",
+      "id": 15
+    },
+    {
+      "name": "Living Room",
+      "humidity": 32,
+      "roomTemp": 22,
+      "houseId": "2",
+      "id": 16
+    },
+    {
+      "name": "Dining Room",
+      "humidity": 45,
+      "roomTemp": 32,
+      "houseId": "2",
+      "id": 17
+    },
+    {
+      "name": "Utility Room",
+      "humidity": 60,
+      "roomTemp": 24,
+      "houseId": "2",
+      "id": 18
+    },
+    {
+      "name": "Child Room",
+      "humidity": 36,
+      "roomTemp": 27,
+      "houseId": "2",
+      "id": 19
+    },
+    {
+      "name": "Hall",
+      "humidity": 23,
+      "roomTemp": 32,
+      "houseId": "2",
+      "id": 20
+    }
+  ],
+  "appliances": [
+    {
+      "onOff": "ON",
+      "temperature": 6,
+      "tag": "Climate ",
+      "type": "Climate",
+      "roomId": 1,
+      "id": 1
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 1,
+      "id": 2
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 1,
+      "id": 3
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 1,
+      "id": 4
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 2,
+      "id": 5
+    },
+    {
+      "tag": "Televison",
+      "type": "Television",
+      "roomId": 2,
+      "id": 6
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 2,
+      "id": 7
+    },
+    {
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 2,
+      "id": 8
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 3,
+      "id": 9
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 4,
+      "id": 10
+    },
+    {
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 4,
+      "id": 11
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 5,
+      "id": 12
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 5,
+      "id": 13
+    },
+    {
+      "tag": "Climate 1",
+      "type": "Climate",
+      "roomId": 6,
+      "id": 14
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 6,
+      "id": 15
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 6,
+      "id": 16
+    },
+    {
+      "tag": "Climate 2",
+      "type": "Climate",
+      "roomId": 6,
+      "id": 17
+    },
+    {
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 6,
+      "id": 18
+    },
+    {
+      "onOff": "ON",
+      "temperature": 13,
+      "tag": "Climate 1",
+      "type": "Climate",
+      "roomId": 7,
+      "id": 19
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 7,
+      "id": 20
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 7,
+      "id": 21
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 7,
+      "id": 22
+    },
+    {
+      "tag": "Climate 2",
+      "type": "Climate",
+      "roomId": 7,
+      "id": 23
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 8,
+      "id": 24
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 9,
+      "id": 25
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 9,
+      "id": 26
+    },
+    {
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 9,
+      "id": 27
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 10,
+      "id": 28
+    },
+    {
+      "onOff": "ON",
+      "temperature": 6,
+      "tag": "Climate ",
+      "type": "Climate",
+      "roomId": 11,
+      "id": 29
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 11,
+      "id": 30
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 11,
+      "id": 31
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 11,
+      "id": 32
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 12,
+      "id": 33
+    },
+    {
+      "tag": "Televison",
+      "type": "Television",
+      "roomId": 12,
+      "id": 34
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 12,
+      "id": 35
+    },
+    {
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 12,
+      "id": 36
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 13,
+      "id": 37
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 14,
+      "id": 38
+    },
+    {
+      "onOff": "OFF",
+      "temperature": 12,
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 14,
+      "id": 39
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 15,
+      "id": 40
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 15,
+      "id": 41
+    },
+    {
+      "tag": "Climate 1",
+      "type": "Climate",
+      "roomId": 16,
+      "id": 42
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 16,
+      "id": 43
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 16,
+      "id": 44
+    },
+    {
+      "tag": "Climate 2",
+      "type": "Climate",
+      "roomId": 16,
+      "id": 45
+    },
+    {
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 16,
+      "id": 46
+    },
+    {
+      "onOff": "ON",
+      "temperature": 13,
+      "tag": "Climate 1",
+      "type": "Climate",
+      "roomId": 17,
+      "id": 47
+    },
+    {
+      "onOff": "ON",
+      "temperature": "undefined",
+      "tag": "Television",
+      "type": "Television",
+      "roomId": 17,
+      "id": 48
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 17,
+      "id": 49
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 17,
+      "id": 50
+    },
+    {
+      "tag": "Climate 2",
+      "type": "Climate",
+      "roomId": 17,
+      "id": 51
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 18,
+      "id": 52
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 19,
+      "id": 53
+    },
+    {
+      "tag": "Curtain",
+      "type": "Curtain",
+      "roomId": 19,
+      "id": 54
+    },
+    {
+      "tag": "Climate",
+      "type": "Climate",
+      "roomId": 19,
+      "id": 55
+    },
+    {
+      "tag": "Light",
+      "type": "Light",
+      "roomId": 20,
+      "id": 56
+    }
+  ],
+  "applianceTypes": [
+    {
+      "type": "Climate"
+    },
+    {
+      "type": "Curtain"
+    },
+    {
+      "type": "Light"
+    },
+    {
+      "type": "Television"
+    }
+  ]
+}
