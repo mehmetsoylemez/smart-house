@@ -20,8 +20,6 @@ SmartHouse is single page smart house application that enables user to manage an
 + Designing an alerting mechanism to show notifications from appliances instantly
 + Designing a recent activities of users
   
-  
-This document also describes high level architectural decisions taken regarding each project and how to run each project separately, and ways to deploy the project as a whole.
 
 ## Environment Setup
 In order to build & run client project individually; [yarn](https://yarnpkg.com/en/) is required. Upon installation of `yarn`, dependencies listed below are needed to be installed via running `yarn install` at the root folder of the project.
