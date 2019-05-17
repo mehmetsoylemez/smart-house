@@ -1,5 +1,4 @@
 # SmartHouse      
-![s](https://img.shields.io/static/v1.svg?label=resiew&message=success&color=green)
 
 SmartHouse is single page smart house application that enables user to manage and monitor the appliances
 
