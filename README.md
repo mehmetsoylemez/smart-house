@@ -17,8 +17,8 @@ SmartHouse is single page smart house application that enables user to manage an
   
 # Future Works
 
-+Designing an alerting mechanism to show notifications from appliances instantly
-+Designing a recent activities of users
++ Designing an alerting mechanism to show notifications from appliances instantly
++ Designing a recent activities of users
   
   
 This document also describes high level architectural decisions taken regarding each project and how to run each project separately, and ways to deploy the project as a whole.
