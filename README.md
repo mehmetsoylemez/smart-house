@@ -60,6 +60,6 @@ In order to build the project for production; please run `yarn build` command at
 ## Known Issues & Bugs & Warnings
 + Static content served over CDN: Some of the css files and icons are served over CDN; it should be nice to keep them in local if possible.
 + Any linting mechanism is not added to application but while implementing, eslint mechanism is used over IDE(Visual Studio Code). it should be nice to add it to package.json
-+ Use the `defaultValue` or `value` props on <select> instead of setting `selected` on <option>.: <select> defaultValue or value property is running properly so using "selected" property is found suitable
++ Use the `defaultValue` or `value` props on <select> instead of setting `selected` on <option> warning: <select> defaultValue or value property is not running properly so using "selected" property is found suitable
 + Multiple css and component library are used, it should be nice to keep them in local if possible or reduce multiple dependency
 + json-server sometimes may not work consistently with deletions.
